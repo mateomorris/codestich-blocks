@@ -1,6 +1,4 @@
-yes
-
-<!-- <script>
+<script>
 	import '../core.css';
 
 	export let topper = 'Save Our Earth, One Person at a Time',
@@ -202,4 +200,4 @@ yes
 			}
 		}
 	}
-</style> -->
+</style>
