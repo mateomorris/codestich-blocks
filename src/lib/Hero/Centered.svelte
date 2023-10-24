@@ -1,5 +1,5 @@
 <script>
-	import '../core.css';
+	// import '../core.css';
 
 	export let topper = 'Save Our Earth, One Person at a Time',
 		title = `Let’s Go Green As It Makes Environment`,
