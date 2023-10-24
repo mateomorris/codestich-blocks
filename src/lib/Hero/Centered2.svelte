@@ -1,6 +1,4 @@
 <script>
-	import '../core.css';
-
 	export let topper = 'Save Our Earth, One Person at a Time',
 		title = `Let’s Go Green As It Makes Environment`,
 		text = `We help companies develop powerful corporate social responsibility, grantmaking, and employee engagement strategies.`,
@@ -44,7 +42,7 @@
 </section>
 
 <style lang="postcss">
-	/* Mobile - 360px */
+	@import url('./core.css'); /* Mobile - 360px */
 	@media only screen and (min-width: 0rem) {
 		section {
 			/* Centers button */
